@@ -15,7 +15,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 // Environment / API keys
-const SARVAM_API_KEY = "sk_hfyawqb0_IWv6LThQ184Os3E0a5z38WdW";
+const SARVAM_API_KEY = ;
 
 const app = express();
 const PORT = 8000;
